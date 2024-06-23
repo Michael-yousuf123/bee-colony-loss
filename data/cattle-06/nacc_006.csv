@@ -1,0 +1,66 @@
+6,"t","Cattle Death Loss: Released May 5, 2006, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+6,"t","Losses of Cattle and Calves:  Number and Percent by Unknown Predators,"
+6,"t","by State and United States, 2005 1/"
+6,"h","","","","",""
+6,"h","","Unknown Predators","Unknown Predators","Unknown Predators","Unknown Predators"
+6,"h","","","","",""
+6,"h","State","","%","","%"
+6,"h","","Cattle","Total","Calves","Total"
+6,"h","","","Predators","","Predators"
+6,"h","","","","",""
+6,"u","","Head","Percent","Head","Percent"
+6,"d","AL",600,40.0,900,16.4
+6,"d","AZ",500,71.4,500,19.2
+6,"d","AR",1100,61.1,1500,33.3
+6,"d","CA",100,7.1,200,3.9
+6,"d","CO",,,700,17.5
+6,"d","CT",,,,
+6,"d","DE",,,,
+6,"d","FL",200,11.8,900,14.8
+6,"d","GA",300,17.6,1400,23.7
+6,"d","HI",,,100,33.3
+6,"d","ID",100,20.0,500,25.0
+6,"d","IL",,,600,27.3
+6,"d","IN",,,,
+6,"d","IA",,,,
+6,"d","KS",,,600,15.4
+6,"d","KY",500,35.7,1500,25.9
+6,"d","LA",100,11.1,600,16.2
+6,"d","ME",,,,
+6,"d","MD",,,,
+6,"d","MA",,,,
+6,"d","MI",,,,
+6,"d","MN",,,200,11.8
+6,"d","MS",1000,83.3,1100,42.3
+6,"d","MO",,,200,5.0
+6,"d","MT",200,33.3,300,12.5
+6,"d","NE",,,,
+6,"d","NV",,,,
+6,"d","NH",,,,
+6,"d","NJ",,,,
+6,"d","NM",300,13.6,800,16.7
+6,"d","NY",,,,
+6,"d","NC",100,20.0,100,5.6
+6,"d","ND",400,80.0,500,21.7
+6,"d","OH",300,75.0,200,10.5
+6,"d","OK",500,25.0,800,8.3
+6,"d","OR",,,500,12.2
+6,"d","PA",1000,100.0,1500,75.0
+6,"d","RI",,,,
+6,"d","SC",,,400,28.6
+6,"d","SD",,,200,8.7
+6,"d","TN",400,33.3,500,9.3
+6,"d","TX",900,22.0,3200,9.1
+6,"d","UT",,,100,4.0
+6,"d","VT",,,,
+6,"d","VA",200,14.3,500,13.2
+6,"d","WA",400,44.4,100,6.3
+6,"d","WV",,,,
+6,"d","WI",,,100,3.7
+6,"d","WY",,,,
+6,"d","",,,,
+6,"d","Unpub",600,,200,
+6,"d","",,,,
+6,"d","US",9800,28.8,21500,13.8
+6,"c",""
+6,"f","1/  Missing data are less than 100 head for the State or not published to avoid disclosure of individual operations.  This data is included in Unpublished States and in United States.  Totals may not add due to rounding."

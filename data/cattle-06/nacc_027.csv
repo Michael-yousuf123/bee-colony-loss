@@ -1,0 +1,67 @@
+27,"t","Cattle Death Loss: Released May 5, 2006, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+27,"t","Losses of Cattle and Calves from Predators and Non-Predator Causes:"
+27,"t","Total Value per Head and Total Value, by State and United States, 2005 1/"
+27,"h","","","","","","",""
+27,"h","","Value per Head","Value per Head","Total Value","Total Value","Total Value","Total Value"
+27,"h","","","","Predator","Predator","Non-Predator","Non-Predator"
+27,"h","","","","Losses","Losses","Losses","Losses"
+27,"h","","","","","","",""
+27,"h","State","Cattle 2/","Calves 3/","Cattle","Calves","Cattle","Calves"
+27,"h","","","","","","",""
+27,"u","","Dollars","Dollars","1,000 Dollars","1,000 Dollars","1,000 Dollars","1,000 Dollars"
+27,"d","AL",864,381,1296,2096,16848,8573
+27,"d","AZ",873,378,611,983,20341,7333
+27,"d","AR",905,387,1629,1742,25521,14900
+27,"d","CA",962,363,1347,1851,94853,58044
+27,"d","CO",1045,408,732,1632,51519,20808
+27,"d","CT",996,300,,,896,300
+27,"d","DE",996,330,,,598,231
+27,"d","FL",836,390,1421,2379,19479,11271
+27,"d","GA",791,375,1345,2213,15266,9413
+27,"d","HI",483,288,97,86,1352,490
+27,"d","ID",985,378,493,756,40878,23058
+27,"d","IL",989,363,198,799,20571,11906
+27,"d","IN",1007,351,302,421,14803,9758
+27,"d","IA",1080,393,,550,70200,42680
+27,"d","KS",1042,420,729,1638,139941,27762
+27,"d","KY",917,369,1284,2140,30811,25904
+27,"d","LA",869,369,782,1365,21812,6015
+27,"d","ME",996,315,,,1594,977
+27,"d","MD",996,330,,33,2988,1617
+27,"d","MA",996,300,,30,996,270
+27,"d","MI",978,396,,158,24450,18454
+27,"d","MN",970,399,97,678,40643,32040
+27,"d","MS",864,369,1037,959,17971,9742
+27,"d","MO",991,399,1387,1596,67983,46284
+27,"d","MT",1129,414,677,994,21903,18050
+27,"d","NE",1119,426,560,937,105746,31013
+27,"d","NV",1030,411,206,452,5974,4891
+27,"d","NH",996,315,,,797,315
+27,"d","NJ",996,390,,,996,390
+27,"d","NM",991,393,2180,1886,23586,11869
+27,"d","NY",996,420,100,336,34760,20664
+27,"d","NC",864,357,432,643,12528,7211
+27,"d","ND",1153,405,577,932,13260,15269
+27,"d","OH",866,354,346,673,18706,11009
+27,"d","OK",918,396,1836,3802,89964,49658
+27,"d","OR",966,357,386,1464,21832,13530
+27,"d","PA",895,396,895,792,28640,17028
+27,"d","RI",996,300,,,100,60
+27,"d","SC",864,369,173,517,5011,3173
+27,"d","SD",1163,411,349,945,61290,33990
+27,"d","TN",891,366,1069,1976,32789,21082
+27,"d","TX",913,408,3743,14280,270157,95880
+27,"d","UT",1030,402,103,1005,15347,9447
+27,"d","VT",996,315,100,63,5876,2457
+27,"d","VA",854,366,1196,1391,21862,19105
+27,"d","WA",1030,375,927,600,20703,8025
+27,"d","WV",996,336,100,504,6872,3192
+27,"d","WI",959,489,288,1320,62047,67140
+27,"d","WY",1113,420,557,1470,11687,11550
+27,"d","",,,,,,
+27,"d","US 4/",970,396,31587,61087,1634747,863828
+27,"c",""
+27,"f","1/  Missing data are less than 100 head for the State or not published to avoid disclosure of individual operations.  This data is included in the Unpublished States and in the United States."
+27,"f","2/  Cattle value per head is based on a two-year straight average of the value of beef cows reported in the January 1 Cattle survey from 2005 and 2006."
+27,"f","3/  Calf value per head is based on the market year average calf price.  An average weight of 300 pounds was used in all States."
+27,"f","4/  U.S. value per head rounded to the nearest dollar.  U.S. value per head derived.  Totals may not add due to rounding."

@@ -1,0 +1,67 @@
+7,"t","Cattle Death Loss: Released May 12, 2011, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+7,"t","Percent of Total Cattle Predator Losses by Predator – States and United States: 2010"
+7,"t","[Totals may not add due to rounding]"
+7,"h","","","","","","","","",""
+7,"h","","","Mountain lions","","","","","Other","Unknown"
+7,"h","State","Coyotes","and bobcats 1/","Dogs","Vultures","Wolves","Bears","predators","predators"
+7,"h","","","","","","","","",""
+7,"u","","(percent)","(percent)","(percent)","(percent)","(percent)","(percent)","(percent)","(percent)"
+7,"d","Alabama",38.3,-,49.9,3.4,-,-,-,8.4
+7,"d","Arizona",15.8,7.3,-,-,-,1.5,0.7,74.7
+7,"d","Arkansas",37.5,-,43.1,-,-,-,2.2,17.2
+7,"d","California",57.0,32.5,8.5,-,-,1.0,-,1.0
+7,"d","Colorado",17.7,4.0,0.8,-,-,21.4,47.6,8.5
+7,"d","Connecticut",-,-,-,-,-,-,-,-
+7,"d","Delaware",-,-,-,-,-,-,-,-
+7,"d","Florida",40.8,1.9,9.0,3.1,-,-,25.6,19.6
+7,"d","Georgia",7.0,-,14.1,0.1,-,-,71.5,7.3
+7,"d","Hawaii",-,-,67.2,-,-,-,14.8,18.0
+7,"d","",,,,,,,,
+7,"d","Idaho",3.9,1.5,0.5,-,30.0,0.4,3.2,60.5
+7,"d","Illinois",66.5,17.4,-,-,-,-,16.1,-
+7,"d","Indiana",67.6,16.2,-,-,-,-,16.2,-
+7,"d","Iowa",38.0,7.1,26.1,-,-,-,-,28.8
+7,"d","Kansas",66.1,24.6,1.8,-,-,-,3.4,4.1
+7,"d","Kentucky",50.7,-,16.8,7.1,0.5,2.4,7.5,15.0
+7,"d","Louisiana",68.8,-,4.8,1.1,-,-,19.6,5.7
+7,"d","Maine",-,-,-,-,-,-,-,-
+7,"d","Maryland",-,-,-,-,-,-,-,100.0
+7,"d","Massachusetts",-,-,-,-,-,-,-,-
+7,"d","",,,,,,,,
+7,"d","Michigan",59.5,-,25.0,-,-,-,15.5,-
+7,"d","Minnesota",52.1,5.4,7.0,-,16.8,-,-,18.7
+7,"d","Mississippi",79.3,-,17.2,-,-,-,3.5,-
+7,"d","Missouri",10.3,-,44.0,-,-,-,-,45.7
+7,"d","Montana",4.8,-,-,-,44.0,6.5,3.7,41.0
+7,"d","Nebraska",39.0,59.0,-,-,-,-,-,2.0
+7,"d","Nevada",4.7,17.3,-,-,-,-,-,78.0
+7,"d","New Hampshire",-,-,-,-,-,-,-,-
+7,"d","New Jersey",-,-,-,-,-,-,-,-
+7,"d","New Mexico",25.9,44.3,1.7,-,2.4,0.4,3.4,21.9
+7,"d","",,,,,,,,
+7,"d","New York",7.3,-,5.9,-,-,-,-,86.8
+7,"d","North Carolina",26.1,-,23.1,-,-,6.8,-,44.0
+7,"d","North Dakota",85.8,-,-,-,-,-,-,14.2
+7,"d","Ohio",79.5,-,-,6.8,-,-,13.7,-
+7,"d","Oklahoma",35.7,6.8,19.5,7.8,-,-,13.6,16.6
+7,"d","Oregon",63.6,13.3,-,-,-,7.3,-,15.8
+7,"d","Pennsylvania",-,-,-,-,-,-,-,100.0
+7,"d","Rhode Island",-,-,-,-,-,-,-,-
+7,"d","South Carolina",65.8,-,6.3,-,-,-,25.5,2.4
+7,"d","South Dakota",72.0,24.0,-,4.0,-,-,-,-
+7,"d","",,,,,,,,
+7,"d","Tennessee",62.1,-,26.4,-,-,-,-,11.5
+7,"d","Texas",22.2,27.7,6.5,6.0,-,0.1,11.3,26.2
+7,"d","Utah",44.0,1.9,-,-,-,42.8,0.4,10.9
+7,"d","Vermont",100.0,-,-,-,-,-,-,-
+7,"d","Virginia",31.7,-,5.9,7.8,-,0.8,1.7,52.1
+7,"d","Washington",80.7,7.5,-,-,-,-,-,11.8
+7,"d","West Virginia",49.5,-,-,-,-,18.4,-,32.1
+7,"d","Wisconsin",31.5,-,-,-,58.0,10.5,-,-
+7,"d","Wyoming",19.8,11.9,1.0,-,18.6,15.7,-,33.0
+7,"d","",,,,,,,,
+7,"d","United States 2/",34.4,12.1,11.3,2.3,3.8,1.9,9.3,24.9
+7,"c",""
+7,"f","-  Represents zero."
+7,"f","1/  Includes cougars, pumas, and lynx."
+7,"f","2/  Excludes Alaska."

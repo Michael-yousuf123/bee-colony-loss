@@ -1,0 +1,43 @@
+23,"t","Cattle Death Loss: Released May 5, 2006, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+23,"t","Losses of Cattle and Calves:  Predator and Non-Predator"
+23,"t","Number of Head and Total Value, United States, 2005 1/"
+23,"h","","","",""
+23,"h","","Number","","Total"
+23,"h","Cause","of Head","% of Total","Value"
+23,"h","","","",""
+23,"u","","Number","Percent","1,000 Dollars"
+23,"d","Predator",,,
+23,"d","  Coyotes",97000,51.1,43911
+23,"d","  Dogs",21900,11.5,10786
+23,"d","  Mountain Lions",,,
+23,"d","   & Bobcats 2/",14700,7.7,7590
+23,"d","  Vultures 3/",8600,4.5,3807
+23,"d","  Wolves",4400,2.3,2087
+23,"d","  Bears",2800,1.5,1453
+23,"d","  Other Predators",9300,4.9,5735
+23,"d","  Unknown Predators 4/",31300,16.5,17305
+23,"d","",,,
+23,"d","  Total Predator",190000,100.0,92674
+23,"d",""
+23,"d","Non-Predator",,,
+23,"d","  Digestive Problems",648000,16.8,367441
+23,"d","  Respiratory Problems",1110000,28.7,692430
+23,"d","  Metabolic Problems",78000,2.0,64991
+23,"d","  Mastitis",67000,1.7,64695
+23,"d","  Other Diseases",174000,4.5,124833
+23,"d","  Lameness/Injury",132000,3.4,104427
+23,"d","  Weather Related",275000,7.1,172491
+23,"d","  Calving Problems",572000,14.8,328193
+23,"d","  Poisoning",39000,1.0,28736
+23,"d","  Theft",21000,0.5,13920
+23,"d","  Other Non-Predator",271000,7.0,225066
+23,"d","  Unknown Non-Predator",474000,12.3,311352
+23,"d","",,,
+23,"d","  Total Non-Predator",3861000,100.0,2498575
+23,"d","",,,
+23,"d","US Total",4051000,100.0,2591249
+23,"c",""
+23,"f","1/  Totals may not add due to rounding.  Cattle includes all cows, bulls, steers, and heifers weighing over 500 pounds.  This includes beef and milk breeds as well as cattle on feed.  Calves include beef and milk breed steers, heifers, and bulls weighing less than 500 pounds."
+23,"f","2/  Includes cougars, pumas, and lynx."
+23,"f","3/  Reports of death loss to cattle/calves by vultures is primarily due to black vultures and will occur only in states where this species ranges.  See range map of black vultures at:  http:/www.birds.cornell.edu/AllAboutBirds/Bird Guide/Black_Vulture_dtl.html map."
+23,"f","4/  The category of unknown predators was not included in the 'Cattle Predator Loss' report released May 2001."

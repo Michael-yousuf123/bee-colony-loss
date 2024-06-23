@@ -1,0 +1,40 @@
+1,"t","Cattle Death Loss: Released May 12, 2011, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+1,"t","Number of Head and Total Value of Cattle and Calf Death Loss by Cause – United States: 2010"
+1,"t","[Totals may not add due to rounding]"
+1,"h","","","",""
+1,"h","Cause","Number","Percent","Total"
+1,"h","","of head","of total","value"
+1,"h","","","",""
+1,"u","","(number)","(percent)","(1,000 dollars)"
+1,"d","Predator",,,
+1,"d","  Coyotes",116700,53.1,48185
+1,"d","  Mountain lions and bobcats 1/",18900,8.6,9221
+1,"d","  Dogs",21800,9.9,10067
+1,"d","  Vultures",11900,5.4,4641
+1,"d","  Wolves",8100,3.7,3646
+1,"d","  Bears",2800,1.3,1415
+1,"d","  Other predators",12400,5.6,6352
+1,"d","  Unknown predators",27300,12.4,14948
+1,"d","",,,
+1,"d","  Total predator",219900,100.0,98475
+1,"d","",,,
+1,"d","Non-predator",,,
+1,"d","  Digestive problems",505000,13.4,267799
+1,"d","  Respiratory problems",1055000,28.0,643146
+1,"d","  Metabolic problems",59800,1.6,47558
+1,"d","  Mastitis",62000,1.6,59112
+1,"d","  Lameness/injury",140900,3.7,112251
+1,"d","  Other diseases",179500,4.8,114577
+1,"d","  Weather related",489000,13.0,274092
+1,"d","  Calving problems",494000,13.1,274670
+1,"d","  Poisoning",36100,0.9,26817
+1,"d","  Theft",15100,0.4,9309
+1,"d","  Other non-predator",301600,8.0,247092
+1,"d","  Unknown non-predator",435000,11.5,276476
+1,"d","",,,
+1,"d","  Total non-predator",3773000,100.0,2352899
+1,"d","",,,
+1,"d","United States Total 2/",3992900,100.0,2451374
+1,"c",""
+1,"f","1/  Includes cougars, pumas and lynx."
+1,"f","2/  Excludes Alaska."
